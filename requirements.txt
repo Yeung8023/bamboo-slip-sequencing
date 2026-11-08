@@ -1,0 +1,12 @@
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+ortools==9.15.6755
+torch==2.4.0
+transformers==4.44.2
+tokenizers==0.19.1
+huggingface-hub==0.24.7
+safetensors==0.4.5
+requests==2.32.3
+urllib3==2.2.3
